@@ -1,5 +1,9 @@
+
 #let's tell github to ignore the chest_xray folder and myenv folder
 chest_xray/
 myenv/
 #ignore any pkl files
-*.pkl
+
+echo "*.pkl" >> .gitignore
+
+
