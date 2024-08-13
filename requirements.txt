@@ -6,4 +6,5 @@ flask
 gunicorn
 pillow
 matplotlib
-seaborn
+seaborn 
+streamlit
